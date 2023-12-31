@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BlackCoffer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+       <!-- <item name="colorPrimaryDark">@color/material_dynamic_primary10</item>
+        <item name="colorPrimary">@color/material_dynamic_primary20</item>
+        <item name="colorAccent">@color/material_dynamic_primary30</item>-->
+
+    </style>
+
+    <style name="Theme.BlackCoffer" parent="Base.Theme.BlackCoffer" />
+</resources>
